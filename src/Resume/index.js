@@ -8,7 +8,7 @@ const Resume = () => {
                     
                     <div className='my-name'>
                     <img src="/images/eshe.png" className='my-image'/>
-                    <h1>ESHE HALEDH AZIZ</h1>
+                    <h1 className='name'>ESHE HALEDH AZIZ</h1>
                     <h3 className='profession'><span style={{color: "#009199"}}>SOFTWARE DEVELOPER</span></h3>
                     </div>
 
@@ -69,6 +69,15 @@ const Resume = () => {
 
                     <div className='relevant-courses'>
                         <h2>RELEVANT COURSES</h2>
+                        <ul className='course-list'>
+                            <li>Frontend Web Development</li>
+                            <li>Frontend Mobile Development</li>
+                            <li>Backend Development</li>
+                            <li>UI/UX Design</li>
+                            <li>UX Research</li>
+                            <li>Product Management</li>
+                            <li>Data and Software Architecture</li>
+                        </ul>
                     </div>
 
 

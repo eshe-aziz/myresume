@@ -7,7 +7,11 @@ body{
 .my-resume{
     margin-left: 70px;
     margin-right: 70px;
-    margin-top: 10px;
+    margin-top: 20px;
+}
+
+.name{
+  padding-top: 20px;
 }
 
 .my-name {
@@ -16,7 +20,7 @@ body{
 
 .my-image{
     align-items: center;
-    width: 200px;
+    width: 220px;
     border-radius: 50%;
     padding: 10px;
     border: 3px solid #009199;
@@ -34,7 +38,7 @@ body{
 
 .col-1{
     float: left;
-    margin-left: 80px;
+    margin-left: 180px;
 }
 
 .my-name{
@@ -46,7 +50,7 @@ body{
 }
 
 .contact {
-    padding-top: 10px;
+    padding-top: 20px;
   }
   
 .contact h2 {
@@ -88,6 +92,7 @@ body{
 
 .col-2{
     float: right;
+    margin-top: 10px;
     margin-right: 200px;
 }
 
@@ -96,7 +101,7 @@ body{
 }
 
 .education-section{
-    margin-top: 39px;
+    padding-top: 25px;
 }
   
   .education-section h2 {
@@ -114,7 +119,7 @@ body{
   }
 
   .skills-section{
-    margin-top: 27px;
+    padding-top: 16px;
 }
   
   .skills-section h5 {
@@ -130,4 +135,14 @@ body{
 .skills-list {
   font-weight: 350;
   font-size: 13px;
+}
+
+.course-list {
+  color: #009199;
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.relevant-courses{
+  padding-top: 20px;
 }
