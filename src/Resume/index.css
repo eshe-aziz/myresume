@@ -120,7 +120,7 @@ body{
   }
 
   .skills-section{
-    padding-top: 16px;
+    padding-top: 55px;
 }
   
   .skills-section h5 {
@@ -147,7 +147,7 @@ body{
 }
 
 .relevant-courses{
-  padding-top: 20px;
+  padding-top: 45px;
 }
 
 @media (max-width: 576px) {
